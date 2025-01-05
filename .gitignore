@@ -1,0 +1,39 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Gradle files
+build/
+out/
+
+# Logs
+*.log
+
+# Spring Boot files
+*.war
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.class
+*.tmp
+*.swp
+
+# Dependency caches (if any)
+**/node_modules/
+**/.mvn/
+**/.cache/
+
+# Coverage and testing reports
+*.coverage
+*.coveragexml
+/coverage-reports/
+
+# Application configuration files
+application.properties
+application.yml
+
+# IDE files
+.vscode/
